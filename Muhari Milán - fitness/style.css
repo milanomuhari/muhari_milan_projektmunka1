@@ -1,0 +1,39 @@
+body{
+    width: 800px;
+    margin: auto;
+    
+}
+.kozep{
+    text-align: center;
+}
+.hatter{
+    background-image: url("kek_eg.jpg");
+    text-align: center;
+}
+.kek_hatter{
+    background-image: url("menu_hatter.png");
+    background-repeat: repeat;
+    
+}
+.feher{
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+}
+.kek{
+    color: blue;
+    letter-spacing: 3px;
+}
+.img{
+    position: relative;
+    float: right;
+    padding: 50px;
+    bottom: 400px;
+}
+.sarga{
+    color: yellow;
+}
+.nev{
+    margin: auto;
+    width: 800px;
+}
